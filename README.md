@@ -1,2 +1,2 @@
-# Face_Reccognize_Support Vector Machine
+# Face_Reccognize_Support Vector Machines
 Face Rocognize to check attendance
